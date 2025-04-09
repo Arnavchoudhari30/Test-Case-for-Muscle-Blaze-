@@ -46,5 +46,3 @@ Profile & Settings
 
 Editing personal details
 
-Managing addresses
-
